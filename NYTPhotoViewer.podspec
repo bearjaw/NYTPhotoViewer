@@ -26,7 +26,6 @@ Pod::Spec.new do |s|
 
     ss.dependency 'NYTPhotoViewer/Core'
     ss.dependency 'PINRemoteImage/iOS', '3.0.0'
-    ss.dependency 'PINRemoteImage/PINCache', '3.0.1'
   end
 
 end
